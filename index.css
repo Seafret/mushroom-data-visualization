@@ -1,0 +1,30 @@
+/*Citation: The style format and categories were taught in tutorial
+            and I have roughly adapted them from the tutorial for
+            to suit my needs for this project. */
+rect.bg {
+    width: 100%;
+    height: 100%;
+    fill:white;
+    background: white;
+}
+
+body {
+    background:white;
+    fill:white;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    fill: white;
+}
+
+.chart {
+    padding: 20px;
+    font: bold 10px Arial;
+    fill: white;
+    background: white;
+}
+
